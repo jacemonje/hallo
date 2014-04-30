@@ -1,9 +1,6 @@
 require 'sinatra'
 
 get '/' do
-	"Hallo"
+	"llo"
 end
 
-get '/txb' do
-	"FALFEL BRAH"
-end
